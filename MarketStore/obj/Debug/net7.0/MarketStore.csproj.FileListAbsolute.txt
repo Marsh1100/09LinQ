@@ -1,0 +1,17 @@
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.deps.json
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.runtimeconfig.json
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.AssemblyReference.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfoInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfo.cs
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CoreCompileInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/refint/MarketStore.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.genruntimeconfig.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/ref/MarketStore.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CopyComplete
