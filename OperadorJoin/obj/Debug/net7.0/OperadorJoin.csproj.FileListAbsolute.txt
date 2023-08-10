@@ -1,0 +1,15 @@
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.csproj.AssemblyReference.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.AssemblyInfoInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.AssemblyInfo.cs
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.csproj.CoreCompileInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/bin/Debug/net7.0/OperadorJoin
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/bin/Debug/net7.0/OperadorJoin.deps.json
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/bin/Debug/net7.0/OperadorJoin.runtimeconfig.json
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/bin/Debug/net7.0/OperadorJoin.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/bin/Debug/net7.0/OperadorJoin.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/refint/OperadorJoin.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.genruntimeconfig.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/ref/OperadorJoin.dll
