@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\MarketStore.csproj": {}
+    "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/MarketStore.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\MarketStore.csproj": {
+    "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/MarketStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\MarketStore.csproj",
+        "projectUniqueName": "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/MarketStore.csproj",
         "projectName": "MarketStore",
-        "projectPath": "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\MarketStore.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\obj\\",
+        "projectPath": "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/MarketStore.csproj",
+        "packagesPath": "/home/apolt01-034/.nuget/packages/",
+        "outputPath": "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolt01-034/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }

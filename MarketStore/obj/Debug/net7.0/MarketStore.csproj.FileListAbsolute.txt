@@ -15,20 +15,37 @@
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/ref/MarketStore.dll
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/bin/Debug/net7.0/Newtonsoft.Json.dll
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CopyComplete
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.csproj.AssemblyReference.cache
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.GeneratedMSBuildEditorConfig.editorconfig
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.AssemblyInfoInputs.cache
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.AssemblyInfo.cs
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.csproj.CoreCompileInputs.cache
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.dll
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\refint\MarketStore.dll
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.pdb
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\MarketStore.exe
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\MarketStore.deps.json
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\MarketStore.runtimeconfig.json
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\MarketStore.dll
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\MarketStore.pdb
-D:\Documents\Campus Programmer\09LinQ\MarketStore\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.csproj.CopyComplete
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\MarketStore.genruntimeconfig.cache
-D:\Documents\Campus Programmer\09LinQ\MarketStore\obj\Debug\net7.0\ref\MarketStore.dll
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.AssemblyReference.cache
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.GeneratedMSBuildEditorConfig.editorconfig
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfoInputs.cache
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfo.cs
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CoreCompileInputs.cache
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.dll
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/refint/MarketStore.dll
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.pdb
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.exe
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.deps.json
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.runtimeconfig.json
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.dll
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.pdb
+D:/Documents/Campus Programmer/09LinQ/MarketStore/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CopyComplete
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.genruntimeconfig.cache
+D:/Documents/Campus Programmer/09LinQ/MarketStore/obj/Debug/net7.0/ref/MarketStore.dll
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.AssemblyReference.cache
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfoInputs.cache
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.AssemblyInfo.cs
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CoreCompileInputs.cache
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.dll
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/refint/MarketStore.dll
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.pdb
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.deps.json
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.runtimeconfig.json
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.dll
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/MarketStore.pdb
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.csproj.CopyComplete
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/MarketStore.genruntimeconfig.cache
+/home/apolt01-034/Documents/mb/09LinQ/MarketStore/obj/Debug/net7.0/ref/MarketStore.dll
