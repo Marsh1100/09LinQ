@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bu1BTGyIis71hS6CSSMrKznkFwNz8QjZ95+eqOMv40j6ior1eEmKChlU8xBL14cHzcu/Omt2xye+v7o/NzCTlQ==",
+  "dgSpecHash": "cT1TCB+rg+UNsFXg3LLrVbbgJWPylSA3f3MXJOE6ZHWAUsK6uKtyU1vh0UEEz4b9xl44haHH1IaYEGbxaLV24Q==",
   "success": true,
-  "projectFilePath": "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/MarketStore/MarketStore.csproj",
+  "projectFilePath": "D:\\Documents\\Campus Programmer\\09LinQ\\MarketStore\\MarketStore.csproj",
   "expectedPackageFiles": [
-    "/home/arteN01-061/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

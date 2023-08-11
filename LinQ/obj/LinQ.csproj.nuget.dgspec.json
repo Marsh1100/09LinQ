@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/LinQ/LinQ.csproj": {}
+    "d:\\Documents\\Campus Programmer\\09LinQ\\LinQ\\LinQ.csproj": {}
   },
   "projects": {
-    "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/LinQ/LinQ.csproj": {
+    "d:\\Documents\\Campus Programmer\\09LinQ\\LinQ\\LinQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/LinQ/LinQ.csproj",
+        "projectUniqueName": "d:\\Documents\\Campus Programmer\\09LinQ\\LinQ\\LinQ.csproj",
         "projectName": "LinQ",
-        "projectPath": "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/LinQ/LinQ.csproj",
-        "packagesPath": "/home/arteN01-061/.nuget/packages/",
-        "outputPath": "/home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/LinQ/obj/",
+        "projectPath": "d:\\Documents\\Campus Programmer\\09LinQ\\LinQ\\LinQ.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "d:\\Documents\\Campus Programmer\\09LinQ\\LinQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arteN01-061/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

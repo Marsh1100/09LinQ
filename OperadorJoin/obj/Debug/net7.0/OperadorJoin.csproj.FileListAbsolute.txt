@@ -13,3 +13,18 @@
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.pdb
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/OperadorJoin.genruntimeconfig.cache
 /home/arteN01-061/Documents/Margie_Bocanegra/09LinQ/OperadorJoin/obj/Debug/net7.0/ref/OperadorJoin.dll
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\bin\Debug\net7.0\OperadorJoin.exe
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\bin\Debug\net7.0\OperadorJoin.deps.json
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\bin\Debug\net7.0\OperadorJoin.runtimeconfig.json
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\bin\Debug\net7.0\OperadorJoin.dll
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\bin\Debug\net7.0\OperadorJoin.pdb
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.AssemblyInfo.cs
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.dll
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\refint\OperadorJoin.dll
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.pdb
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\OperadorJoin.genruntimeconfig.cache
+D:\Documents\Campus Programmer\09LinQ\OperadorJoin\obj\Debug\net7.0\ref\OperadorJoin.dll
