@@ -8,12 +8,16 @@ namespace MarketStore.Class
         public int Stoke { get; set; }
         public int MinStoke { get; set; }
         public int MaxStoke { get; set; }
-        public double  SellPrice  {get; set;}
+        public double SellPrice  {get; set;}
         public double PurchasePrice {get; set;}
         public string IdCategory {get; set;}
 
     
-        public Product(){}
+        public Product(){
+            if(!File.Exists(Env.FileName)){
+                File.WriteAllText(Env.FileName, "");
+            }
+        }
 
         public Product(string name, int stoke, int minStoke, int maxStoke, double sellPrice, double purchasePrice, string idCategory ){
             this.CodeProduct = Guid.NewGuid().ToString();
@@ -21,7 +25,10 @@ namespace MarketStore.Class
             this.Stoke = stoke;
             this.MinStoke = minStoke;
             this.MaxStoke = maxStoke;
+            this.SellPrice = sellPrice;
+            this.PurchasePrice = purchasePrice;
             this.IdCategory = idCategory;
+            
         }
 
         public void NewProduct(List<Product> ProductList, List<Category> CategoryList){
@@ -32,66 +39,72 @@ namespace MarketStore.Class
             Console.WriteLine("Ingrese nombre del producto:");
             string name = Convert.ToString(Console.ReadLine());
 
-            bool invalido = true;
-                do
-                {
-                    Console.WriteLine("Ingrese el stock del producto:");
-                    if(!int.TryParse(Console.ReadLine(), out int stock))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Digite un número de stock válido.");
-                        Console.ResetColor();
-                    }else
-                    {
-                        invalido = false;
-                    }
-                }while(invalido);
-                invalido = true;
-                do
-                {
-                    Console.WriteLine("Ingrese el stock máximo del producto:");
-                    if(!int.TryParse(Console.ReadLine(), out int stockMin))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Digite un número de stock máximo válido.");
-                        Console.ResetColor();
-                    }else
-                    {
-                        invalido = false;
-                    }
-                }while(invalido);
-                invalido = true;
+            int stock = validateNumberInt("Digite número de stock del producto:");
+            int stockMin = validateNumberInt("Digite número de stock mínimo de stock del producto:");
+            int stockMax = validateNumberInt("Ingrese el stock mínimo del producto:");
+            double sellPrice = validateNumberDouble("Ingrese valor de venta del producto:");
+            double purchasePrice = validateNumberDouble("Ingrese valor de compra del producto:");
+               
+            Console.WriteLine("Ingrese el ID categoría del producto:");
+            string idCategory = Convert.ToString(Console.ReadLine());
 
-                do
-                {
-                    Console.WriteLine("Ingrese el stock mínimo del producto:");
-                    if(!int.TryParse(Console.ReadLine(), out int stockMax))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Digite un número de stock máximo válido.");
-                        Console.ResetColor();
-                    }else
-                    {
-                        invalido = false;
-                    }
-                }while(invalido);
+            var filteredResult = from cat in CategoryList
+                where cat.IdCategory == idCategory
+                select cat;
 
-                Console.WriteLine("Ingrese categoría del producto:");
-                string idCategory = Convert.ToString(Console.ReadLine());
+            if(filteredResult.Count()>0){
+                Product newProduct = new (name,stock, stockMin, stockMax,sellPrice,purchasePrice, idCategory);
+                
+                ProductList.Add(newProduct);
 
-                var filteredResult = from cat in CategoryList
-                    where cat.IdCategory == idCategory
-                    select cat;
+                
+                Console.WriteLine("Producto agregado de forma exitosa!");
+                ShowProducts(ProductList);
 
-                if(filteredResult.Count()>0){
-                    Console.WriteLine("Hola,sì");
-                }else{
+            }else{
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("El ID de categoría no se encuenta resgistrado :c");
+                Console.ResetColor();
 
-                }
+            }
 
+        }
 
+        public int validateNumberInt(string text){
+            Console.WriteLine(text);
+            if(!int.TryParse(Console.ReadLine(), out int number))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Digite un valor válido.");
+                Console.ResetColor();
 
+                validateNumberInt(text);
+            }
+            return number; 
+        }
 
+        public double validateNumberDouble(string text){
+             Console.WriteLine(text);
+            if(!double.TryParse(Console.ReadLine(), out double number))
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Digite un valor válido.");
+                Console.ResetColor();
+
+                validateNumberDouble(text);
+            }
+            return number;
+        }
+
+        public void ShowProducts(List<Product> ProductList){
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.WriteLine("{0,-10} {1,10} {2,10} {3,15} {4,10} {5,10} {6,15} {7,15}","Code","Category","Nombre","Stock","Min Stock","Max Stock","Sell Price","Purchase Price");
+            Console.ResetColor();
+
+            foreach(Product item in ProductList){
+                Console.WriteLine("{0,-10} {1,10} {2,10} {3,15} {4,10} {5,10} {6,15} {7,15}", item.CodeProduct.Substring(0,5), item.IdCategory.Substring(0,5), item.Name, item.Stoke, item.MinStoke, item.MaxStoke, item.SellPrice, item.PurchasePrice);
+            }
+            
         }
 
 
