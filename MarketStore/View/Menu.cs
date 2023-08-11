@@ -1,5 +1,5 @@
 
-namespace MarketStore.View
+namespace marketStore.View
 {
     public class Menu
     {
