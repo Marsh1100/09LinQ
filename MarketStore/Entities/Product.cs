@@ -61,7 +61,7 @@ namespace marketStore.Entities
                 Env.MarketStore.Products.Add(newProduct);
                 string json = JsonConvert.SerializeObject(Env.MarketStore, Formatting.Indented);
                 File.WriteAllText(Env.FileName, json);
-                ShowProducts(ProductList);
+                ShowProducts();
 
             }else{
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -98,13 +98,13 @@ namespace marketStore.Entities
             return number;
         }
 
-        public void ShowProducts(List<Product> ProductList){
+        public void ShowProducts(){
 
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("{0,-10} {1,10} {2,10} {3,15} {4,10} {5,10} {6,15} {7,15}","Code","Category","Nombre","Stock","Min Stock","Max Stock","Sell Price","Purchase Price");
             Console.ResetColor();
 
-            foreach(Product item in ProductList){
+            foreach(Product item in Env.MarketStore.Products){
                 Console.WriteLine("{0,-10} {1,10} {2,10} {3,15} {4,10} {5,10} {6,15} {7,15}", item.CodeProduct.Substring(0,5), item.IdCategory.Substring(0,5), item.Name, item.Stoke, item.MinStoke, item.MaxStoke, item.SellPrice, item.PurchasePrice);
             }
             
