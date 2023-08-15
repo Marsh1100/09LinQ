@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ScFYufT7Q4AmbR+d+CMv/I+p0aA5lTQFVK+zXfWGl0dAyNuh/s9h9/uEYZ1m2naf3q6LqF50Ylbsc1KY81YWGw==",
+  "dgSpecHash": "a60hxpq+ZfRC7FsEv+5OD55odQM7jQc10Sn4g5r/fpVqfK7X5KOqR1PCnDB2p0Ms2aPnw9GXtYzRUFQ3xmft9Q==",
   "success": true,
-  "projectFilePath": "/home/apolt01-034/Documents/mb/09LinQ/MarketStore/MarketStore.csproj",
+  "projectFilePath": "/home/apolT01-060/Documents/mb/09LinQ/MarketStore/MarketStore.csproj",
   "expectedPackageFiles": [
-    "/home/apolt01-034/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/apolT01-060/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
